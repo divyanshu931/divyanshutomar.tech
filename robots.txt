@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /node_modules/
+
+Sitemap: https://divyanshutomar.tech/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
