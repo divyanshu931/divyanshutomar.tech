@@ -1,0 +1,13 @@
+/* humanstxt.org */
+
+/* TEAM */
+  Developer: Divyanshu Tomar
+  Contact: divyanshutomar943@gmail.com
+  Website: https://divyanshutomar.tech
+
+/* TECHNOLOGY */
+  Standard: HTML5, CSS3, TypeScript, React
+  Framework: Three.js
+  Build Tool: Webpack 5
+  Version Control: Git
+  Hosting: GitHub Pages
